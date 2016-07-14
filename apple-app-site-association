@@ -1,5 +1,7 @@
-{ "applinks": { "apps": [], "details": [ { "appID": "U65HZL2473.com.auspost.mobile.develop", "paths": ["/mypost/track/",
-"/parcels-mail/track.html/",
+{ "applinks": { "apps": [], "details": [ { "appID": "U65HZL2473.com.auspost.mobile.develop", "paths": [
+"/mypost/track/",
+"/parcels-mail/track.html",
 "/track/track.html",
+"/view/tracking/*/",
 "/view/tracking/", 
-"/view/tracking/*"] }] } }
+] }] } }
