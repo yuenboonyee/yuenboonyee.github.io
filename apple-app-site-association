@@ -1,1 +1,1 @@
-{ "applinks": { "apps": [], "details": [ { "appID": "U65HZL2473.com.auspost.mobile.develop", "paths": [ "*"] }] } }
+{ "applinks": { "apps": [], "details": [ { "appID": "U65HZL2473.com.auspost.mobile.develop", "paths": [ "/mypost/track/", "/track/track.html", "/view/tracking/"] }] } }
